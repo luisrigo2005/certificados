@@ -1,3 +1,4 @@
+<img src="https://github.com/luisrigo2005/certificados/blob/main/certificate-bootcamp-ai-cloud-66edfe4185e41c8ac1026e3f.png" alt="Certificado The Cloud BootCamp - Inteligência Artificial com MultiCloud & DevOps" style="width: 800px; height: auto;">
 <img src="https://github.com/luisrigo2005/certificados/blob/main/Intensivao%20-%20Terraform.png" alt="Certificado Cloud Treinamentos - Intensivão Terraform" style="width: 800px; height: auto;">
 <img src="https://github.com/luisrigo2005/certificados/blob/main/Certificado%20de%20Conclus%C3%A3o%20-%20Intelig%C3%AAncia%20Artificial%20com%20Python.png" alt="Certificado de Conclusão - Inteligência Artificial com Python" style="width: 800px; height: auto;">
 <img src="https://github.com/luisrigo2005/certificados/blob/main/Certificado%20de%20Conclus%C3%A3o%20Desenvolvimento%20Web%20com%20Flask.png" alt="Certificado Empowerdata - Certificado de Conclusão Desenvolvimento Web com Flask" style="width: 800px; height: auto;">
