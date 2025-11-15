@@ -1,3 +1,4 @@
+<img src="https://github.com/luisrigo2005/certificados/blob/main/certificado-mec-daxus-IA.png" alt="Certificado unifatec Daxus - Formação Experte em IS" style="width: 800px; height: auto;">
 <img src="https://github.com/luisrigo2005/certificados/blob/main/certificate-bootcamp-ai-cloud-66edfe4185e41c8ac1026e3f.png" alt="Certificado The Cloud BootCamp - Inteligência Artificial com MultiCloud & DevOps" style="width: 800px; height: auto;">
 <img src="https://github.com/luisrigo2005/certificados/blob/main/certificate-multicloud-devops-ia-challenge-66f7527854ad25b4fa00e65c.png" alt="Certificado The Cloud BootCamp - MultiCloud, DevOps & IA" style="width: 800px; height: auto;">
 <img src="https://github.com/luisrigo2005/certificados/blob/main/Intensivao%20-%20Terraform.png" alt="Certificado Cloud Treinamentos - Intensivão Terraform" style="width: 800px; height: auto;">
